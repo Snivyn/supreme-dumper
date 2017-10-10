@@ -22,13 +22,13 @@ Outputs current products on SupremeNYC's site to a CSV file. Extracted info incl
 ## Credits
  **Niveen Jegatheeswaran** - [@snivynGOD](https://twitter.com/snivynGOD)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 
-
 ## Disclaimer
 Not affiliated with Supreme in any way. This is a personal project.
 It may not be stable. Use as you will.
 
-If you have any suggestions, or want to help make this better, let me know! Enjoy!
+If you have any suggestions, or want to help make this better, let me know!
 
 Twitter: @snivynGOD
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 

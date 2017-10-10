@@ -24,7 +24,7 @@ Outputs current products on SupremeNYC's site to a CSV file. Extracted info incl
 
 ## Disclaimer
 Not affiliated with Supreme in any way. This is a personal project.
-It may not be stable. Use as you will.
+It may not be stable.
 
 If you have any suggestions, or want to help make this better, let me know!
 

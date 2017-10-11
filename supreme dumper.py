@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as soup
 from datetime import datetime as dt
 
 print("------------------------------------------------------------------")
-print("sharanga supreme dumper v1.1")
+print("supreme dumper v1.2")
 print("developed by @snivynGOD\n")
 print("Outputs current products (name, image, price, stock) on Supreme's")
 print("site to a CSV file.")
